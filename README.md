@@ -42,6 +42,7 @@ The datasets used vary from each tool in order to best highlight their functiona
 
 While synthetic datasets are useful in order to test and develop tools, there are known limitations to sythetic generation such as having unrealistic partial adapters - this is an issue I encountered throughout this project. I decided to use these unrealistic, predicatable patterns to my advantage, these limitations and choices are documented in the "Known Issues & Limitations" section later on in the README.
 
+Per‑base composition plot for a synthetic dataset, demonstrating uniform base distribution expected from randomly generated sequences:
 ![Per‑base composition plot for a synthetic dataset, demonstrating uniform base distribution expected from randomly generated sequences.](output.png)
 
 -----------
